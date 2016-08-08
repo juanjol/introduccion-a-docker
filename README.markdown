@@ -6,6 +6,5 @@
   El video de la charla se puede ver en [Youtube]https://www.youtube.com/watch?v=23OvbMtDPvU
 
 # Para lanzarla
-  npm install
-  
-  npm start
+  1. $ npm install
+  2. $ npm start
