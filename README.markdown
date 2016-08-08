@@ -7,4 +7,5 @@
 
 # Para lanzarla
   npm install
+  
   npm start
